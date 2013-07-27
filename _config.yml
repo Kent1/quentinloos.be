@@ -96,5 +96,6 @@ disqus_show_comment_count: false
 # Google Analytics
 google_analytics_tracking_id:
 
-# Facebook Like
+# Facebook
 facebook_like: false
+facebook_user: quentin.loos.18
