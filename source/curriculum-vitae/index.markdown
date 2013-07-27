@@ -7,7 +7,9 @@ sharing: false
 footer: true
 ---
 
-### <span style="color: #3366ff;">Informations Personnelles</span>
+Ce CV est disponible au <a href="http://files.quentinloos.be/CV.pdf">format PDF</a>
+
+### <span style="color: #2571B8;">Informations Personnelles</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -30,7 +32,7 @@ footer: true
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Formations &amp; Diplômes</span>
+### <span style="color: #2571B8;">Formations &amp; Diplômes</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -59,7 +61,7 @@ Je suis actuellement en 2ème Master</td>
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Expérience professionnelle</span>
+### <span style="color: #2571B8;">Expérience professionnelle</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -98,7 +100,7 @@ Je suis actuellement en 2ème Master</td>
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Compétences informatiques</span>
+### <span style="color: #2571B8;">Compétences informatiques</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -157,7 +159,7 @@ Je suis actuellement en 2ème Master</td>
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Compétences linguistiques</span>
+### <span style="color: #2571B8;">Compétences linguistiques</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -168,18 +170,18 @@ Je suis actuellement en 2ème Master</td>
 </tr>
 <tr>
 <td style="text-align: right; width: 20%;">Néerlandais</td>
-<td style="padding-left: 10px;"><strong>bon</strong></td>
-<td style="text-align: right;"><em>Envie de progresser</em></td>
+<td style="padding-left: 10px;"><strong>Moyen</strong></td>
+<td style="text-align: right;"><em>En cours d'amélioration</em></td>
 </tr>
 <tr>
 <td style="text-align: right; width: 20%;">Anglais</td>
-<td style="padding-left: 10px;"><strong>Très bon</strong></td>
+<td style="padding-left: 10px;"><strong>Bon</strong></td>
 <td style="text-align: right;"><em>Courant et spécialisé informatique</em></td>
 </tr>
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Loisirs &amp; intérêts personnels</span>
+### <span style="color: #2571B8;">Loisirs &amp; intérêts personnels</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -194,7 +196,7 @@ Je suis actuellement en 2ème Master</td>
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Mes atouts</span>
+### <span style="color: #2571B8;">Mes atouts</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -209,7 +211,7 @@ Je suis actuellement en 2ème Master</td>
 </tbody>
 </table>
 
-### <span style="color: #3366ff;">Autre</span>
+### <span style="color: #2571B8;">Autre</span>
 
 <table width="100%" style="border: 0px;">
 <tbody>
@@ -220,6 +222,10 @@ Je suis actuellement en 2ème Master</td>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">~</td>
 <td style="padding-left: 10px;">2 ans d&rsquo;administration d&rsquo;un serveur de jeu en ligne.</td>
+</tr>
+<tr>
+<td style="vertical-align: top; text-align: right; width: 20%;">~</td>
+<td style="padding-left: 10px;">Président du club informatique de l'UMons</td>
 </tr>
 </tbody>
 </table>
