@@ -14,7 +14,7 @@ NAT, _Network Address Translation_, permet de faire la correspondance entre des 
 *   Classe B : 172.16.0.0/12
 *   Classe C : 192.168.0.0/16
 
-Le NAT s'occupe donc de remplacer les adresses privées par celles publiques et inversement.
+Le NAT s'occupe donc de remplacer les adresses privées par celles publiques et inversement.<!-- more -->
 
 ## Avantages
 
