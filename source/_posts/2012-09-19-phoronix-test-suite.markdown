@@ -12,7 +12,7 @@ Pour un projet, je dois comparer les solutions de virtualisation existantes. Ent
 
 Pour réaliser ces benchmarks, j'ai tout de suite pensé au site connu, [Phoronix](http://www.phoronix.com "Phoronix"), qui, en quelques années, c'est imposé comme la référence des tests logiciels et matériels sous GNU/Linux. J'espérais y trouver des logiciels de benchmarks, et ... j'ai été comblé ! Il se trouve que le site à lancé son propre logiciel de benchmarks, couvrant tous les aspects possibles à tester, _Phoronix Test Suite_.
 
-Phoronix Test Suite permet donc d'effectuer des benchmarks. Il comprend des _tests_ et des _suites_ de tests, permettant ainsi de tester le cpu par des tests de compilation, la lecture/écriture sur le disque, mais aussi des tests de logiciels, comme Apache ou Nginx.
+Phoronix Test Suite permet donc d'effectuer des benchmarks. Il comprend des _tests_ et des _suites_ de tests, permettant ainsi de tester le cpu par des tests de compilation, la lecture/écriture sur le disque, mais aussi des tests de logiciels, comme Apache ou Nginx.<!-- more -->
 
 ### Installation
 
