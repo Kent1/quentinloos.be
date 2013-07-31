@@ -8,7 +8,7 @@ categories: ["Debian", "APT"]
 
 Supposons que nous disposons d'un serveur tournant avec Debian stable. Les paquets de la stable ont pour avantage d'être moins sujets aux bugs. Cependant, dans certains cas, il est intéressant d’avoir la dernière version d’un logiciel, en particulier pour des applications jeunes ou à la mode, mais néanmoins intéressantes ! Certains paquets comme **Node.js** ou **ownCloud** ne sont même pas présent dans les dépôts **Wheezy** !
 
-Nous allons donc spécifier à Debian qu'on souhaite que certains paquets soient installés à partir des dépôts de **Jessie**
+Nous allons donc spécifier à Debian qu'on souhaite que certains paquets soient installés à partir des dépôts de **Jessie**<!-- more -->
 
 Commençons donc par ajouter les dépôts dans _/etc/apt/sources.list_
 
