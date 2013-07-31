@@ -3,7 +3,7 @@ layout: post
 title: "Hole Punching – P2P à travers un NAT"
 date: 2012-10-25 18:05
 comments: false
-categories: [Réseaux]
+categories: [Réseaux, NAT]
 ---
 
 # Rappel

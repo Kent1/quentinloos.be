@@ -3,7 +3,7 @@ layout: post
 title: "Phoronix Test Suite"
 date: 2012-09-19 17:47
 comments: false
-categories: [GNU/Linux]
+categories: [GNU/Linux, Benchmark]
 ---
 
 {% img right http://openbenchmarking.org/css/pts-200.png "Phoronix Test Suite" %}
