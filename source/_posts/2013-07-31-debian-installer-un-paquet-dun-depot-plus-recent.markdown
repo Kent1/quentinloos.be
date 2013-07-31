@@ -3,6 +3,7 @@ layout: post
 title: "Debian : Installer un paquet d’un dépôt plus récent"
 date: 2013-07-31 11:57
 comments: false
+sharing: false
 categories: ["Debian", "APT"]
 ---
 

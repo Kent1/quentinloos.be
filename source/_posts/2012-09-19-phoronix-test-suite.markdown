@@ -3,6 +3,7 @@ layout: post
 title: "Phoronix Test Suite"
 date: 2012-09-19 17:47
 comments: false
+sharing: false
 categories: [GNU/Linux, Benchmark]
 ---
 
