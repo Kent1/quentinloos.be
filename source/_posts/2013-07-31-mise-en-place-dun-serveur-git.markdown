@@ -78,7 +78,3 @@ Vous aurez normalement un message d'avertissement disant que vous clonez un dép
     $ git push origin master
 
 Après vous pouvez simpement utiliser la commande **git push** sans paramètres.
-
-### Restriction du shell
-
-Finalement, pour ne pas donner un accès shell à cet utilisateur git, on peut changer son shell. Mettez donc <code>/usr/bin/git-shell</code> à la place de bash dans _/etc/passwd_ pour cet utilisateur. La connexion SSH est alors refusé, et seules des commandes git sont possibles.
