@@ -9,6 +9,8 @@ footer: true
 
 Ce CV est disponible au <a href="http://files.quentinloos.be/CV.pdf">format PDF</a>
 
+It is also available <a href="{{ root_url }}/curriculum-vitae-en">in English</a>.
+
 ### <span style="color: #2571B8;">Informations Personnelles</span>
 
 <table width="100%" style="border: 0px;">
@@ -37,26 +39,21 @@ Ce CV est disponible au <a href="http://files.quentinloos.be/CV.pdf">format PDF<
 <table width="100%" style="border: 0px;">
 <tbody>
 <tr>
-<td style="vertical-align: top; text-align: right; width: 20%;">1996–2002</td>
-<td style="padding-left: 10px;"><strong>Études primaires</strong>, à l’Athénée Royal Robert Campin à Tournai.<br />
-Certificat d’Études de Base (CEB)</td>
-</tr>
-<tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">2002–2008</td>
 <td style="padding-left: 10px;"><strong>Études secondaires</strong>, à l’Athénée Royal Robert Campin à Tournai.<br />
-Diplôme de l’enseignement secondaire inférieur en latin &amp; mathématiques<br />
-Diplôme de l’enseignement secondaire supérieur en mathématiques &amp; sciences</td>
+Diplôme de l’enseignement secondaire inférieur en Latin &amp; mathématiques.<br />
+Diplôme de l’enseignement secondaire supérieur en mathématiques &amp; sciences.</td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">2008-2012</td>
 <td style="padding-left: 10px;"><strong>Études universitaires</strong>, à l’Université de Mons.<br />
-Bachelier en Sciences Informatiques</td>
+Bachelier en Sciences Informatiques.</td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">2012–Maintenant</td>
 <td style="padding-left: 10px;"><strong>Études universitaires</strong>, à l’Université de Mons.<br />
-Master en Sciences Informatiques<br />
-Je suis actuellement en 2ème Master</td>
+Master en Sciences Informatiques.<br />
+Je suis actuellement en 2ème Master.</td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +91,7 @@ Je suis actuellement en 2ème Master</td>
 <td style="padding-left: 10px;"><strong>Moniteur en plaine de jeux</strong>, Tournai.</td>
 </tr>
 <tr>
-<td style="text-align: right; width: 20%;">Juillet 2009</td>
+<td style="text-align: right; width: 20%;">Septembre 2012</td>
 <td style="padding-left: 10px;"><strong>Job étudiant</strong>, Carrefour, Froyennes.</td>
 </tr>
 </tbody>
@@ -225,7 +222,7 @@ Je suis actuellement en 2ème Master</td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">~</td>
-<td style="padding-left: 10px;">Président du club informatique de l'UMons</td>
+<td style="padding-left: 10px;">Président du club informatique de l'UMons.</td>
 </tr>
 </tbody>
 </table>
