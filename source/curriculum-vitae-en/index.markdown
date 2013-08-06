@@ -23,7 +23,7 @@ This CV is also available in <a href="http://files.quentinloos.be/CV-en.pdf">PDF
 </tr>
 <tr>
 <td style="text-align: right;" width="20%">Date of birth</td>
-<td style="padding-left: 10px;">1st april 1990</td>
+<td style="padding-left: 10px;">April 1st 1990</td>
 </tr>
 <tr>
 <td style="text-align: right;" width="20%">Place of birth</td>
@@ -38,9 +38,9 @@ This CV is also available in <a href="http://files.quentinloos.be/CV-en.pdf">PDF
 <tbody>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">2002–2008</td>
-<td style="padding-left: 10px;"><strong>High school</strong>, at the Athénée Royal Robert Campin at Tournai.<br />
-Degree of lower secondary education in Latin &amp; mathematics.<br />
-Degree of higher secondary education in mathematics &amp; science.</td>
+<td style="padding-left: 10px;"><strong>High school</strong>, at the Athénée Royal Robert Campin in Tournai.<br />
+Lower degree of secondary education in Latin &amp; mathematics.<br />
+Higher degree of secondary education in mathematics &amp; science.</td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">2008-2012</td>
@@ -48,10 +48,10 @@ Degree of higher secondary education in mathematics &amp; science.</td>
 Bachelor in Computer Science.</td>
 </tr>
 <tr>
-<td style="vertical-align: top; text-align: right; width: 20%;">2012–Maintenant</td>
+<td style="vertical-align: top; text-align: right; width: 20%;">2012 until now</td>
 <td style="padding-left: 10px;"><strong>University</strong> of Mons.<br />
 Master in Computer Science.<br />
-I am currently a second year Master student.</td>
+I am currently a second year Master's student.</td>
 </tr>
 </tbody>
 </table>
@@ -62,11 +62,11 @@ I am currently a second year Master student.</td>
 <tbody>
 <tr>
 <td style="text-align: right; width: 20%;">July 2006</td>
-<td style="padding-left: 10px;"><strong>Sandwich-man</strong>, Roi du Matelas, Tournai.</td>
+<td style="padding-left: 10px;"><strong>Human billboard</strong>, Roi du Matelas, Tournai.</td>
 </tr>
 <tr>
 <td style="text-align: right; width: 20%;">July &amp; August 2007</td>
-<td style="padding-left: 10px;"><strong>HORECA</strong>, Tribalya, Carrière de l’Orient at Tournai.</td>
+<td style="padding-left: 10px;"><strong>HORECA</strong>, Tribalya, Carrière de l’Orient, Tournai.</td>
 </tr>
 <tr>
 <td style="text-align: right; width: 20%;">March 2008</td>
@@ -74,7 +74,7 @@ I am currently a second year Master student.</td>
 </tr>
 <tr>
 <td style="text-align: right; width: 20%;">July 2008</td>
-<td style="padding-left: 10px;"><strong>HORECA</strong>, Tribalya, Carrière de l’Orient at Tournai.</td>
+<td style="padding-left: 10px;"><strong>HORECA</strong>, Tribalya, Carrière de l’Orient, Tournai.</td>
 </tr>
 <tr>
 <td style="text-align: right; width: 20%;">Août 2008</td>
@@ -124,7 +124,7 @@ I am currently a second year Master student.</td>
 <td style="vertical-align: top; padding-left: 10px;">Knowledge of HTML, CSS, PHP, XML, XSLT, XPath, Javascript, JSON</td>
 </tr>
 <tr>
-<td style="vertical-align: top; text-align: right; width: 20%;">Réseaux</td>
+<td style="vertical-align: top; text-align: right; width: 20%;">Networks</td>
 <td style="vertical-align: top; padding-left: 10px;">OSI Model, IP, TCP, UDP, routing protocols (OSPF, RIP, ISIS, BGP, . . .), Wireless &amp; mobile, Wireless Sensor Network, IPv6</td>
 </tr>
 <tr>
@@ -182,11 +182,11 @@ I am currently a second year Master student.</td>
 <tbody>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">Informatics</td>
-<td style="padding-left: 10px;">I am passionate about computers since I first laid my hands on a computer at 6. Since I know that I will work in this area.</td>
+<td style="padding-left: 10px;">I am passionate about computers since I first put my hands on a computer at the age of 6. From then I knew that I would work in this field.</td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">Sports</td>
-<td style="padding-left: 10px;">I like sports in general, and especially basketball, that I practiced in a club for 12 years.</td>
+<td style="padding-left: 10px;">I like sports in overall, and especially basketball which I practiced in a club for 12 years.</td>
 </tr>
 </tbody>
 </table>
@@ -197,11 +197,11 @@ I am currently a second year Master student.</td>
 <tbody>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">~</td>
-<td style="padding-left: 10px;">I like learning things and i do it with smile. I am friendly and sociable. I am motivated.</td>
+<td style="padding-left: 10px;">I like learning things and I do it with a smile. I am friendly and sociable. I am motivated.</td>
 </tr>
 <tr>
 <td style="vertical-align: top; text-align: right; width: 20%;">~</td>
-<td style="padding-left: 10px;">I know what a team, and I know everyone's responsibility.</td>
+<td style="padding-left: 10px;">I know what a team is, and I know everyone's responsibility.</td>
 </tr>
 </tbody>
 </table>

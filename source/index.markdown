@@ -16,7 +16,7 @@ Le blog parle énormément d'auto-hébergement, ma petite passion du moment. N'h
 <div style="border-bottom:1px solid #ddd;"></div>
 <br />
 
-My name is Quentin, I'm 23 and I'm from Tournai, Belgium. I'm currently a second year Master's student in computer science at University of Mons. I'm passionated by computers since I'm a child, and I'm particulary interested in networks, security and system administration as well as the design of software tools, complexity of algorithms and data structures. I am also very interested in free and open source software, and I care about the protection of life privacy on the internet and the importance of decentralized networks. Finally, I have other passions like sports and cooking.
+My name is Quentin, I'm 23 and I'm from Tournai, Belgium. I'm currently a second year Master's student in computer science at University of Mons. I'm passionate by computers since I'm a child, and I'm particulary interested in networks, security and system administration as well as the design of software tools, complexity of algorithms and data structures. I am also very interested in free and open source software, and I care about the protection of life privacy on the internet and the importance of decentralized networks. Finally, I have other passions like sports and cooking.
 
 This site includes my projects, my articles & tutorials and my resume.
 
