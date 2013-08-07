@@ -7,7 +7,8 @@ title: Quentin Loos
 subtitle: Linuxien passionné
 author: Quentin
 simple_search: http://google.com/search
-description:
+description: "Ce site est hébergé chez moi, sur un serveur connecté en permanence à internet. Il tourne exclusivement grâce à des logiciels libres, et me fournit une panoplie de services internet personnels, participant ainsi à un internet décentralisé, comme originalement conçu."
+keywords: quentin loos, GNU/Linux, Debian
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
