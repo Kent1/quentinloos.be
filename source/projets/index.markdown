@@ -12,3 +12,6 @@ footer: true
 
 ### <a href="{{ root_url }}/projets/virtualisation/index.html">Virtualisation</a>
 > Document consistant en la mise en place d'une solution de virtualion.
+
+### <a href="{{ root_url }}/projets/manille/index.html">Manille</a>
+> Une application Android pour noter les points d'une partie de Manille.
