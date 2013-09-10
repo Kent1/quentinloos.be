@@ -7,7 +7,7 @@ sharing: false
 footer: true
 ---
 
-Manille est une application Android dont le but est d'utiliser son smartphone comme carnet de points pour le célèbre jeu de cartes, la manille. Fini de griffonner le verso d'un dessous verre en carton Jupiler, cette application deviendra indispensable chez tous les passionnés de manille.
+Manille est une application Android dont le but est d'utiliser son smartphone comme carnet de points pour le célèbre jeu de cartes, la manille. Fini de griffonner le verso d'un dessous de verre en carton Jupiler, cette application deviendra indispensable chez tous les passionnés de manille.
 
 Elle fonctionne sur Android 2.3.
 
