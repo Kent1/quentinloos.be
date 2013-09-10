@@ -11,7 +11,10 @@ Cette article fait suite à l'article <a href="{{ root_url }}/blog/2013/07/31/de
 
 Les PPA d'ubuntu sont des dépôts d'utilisateurs qui créent des paquets de certains logiciels. Prenons le cas de [Sublime Text](http://sublimetext.com). Ce logiciel ne se trouve pas dans les dépôt Debian, n'étant pas un logiciel libre. Et bien il existe un PPA pour Sublime Text, que nous allons importer dans notre Debian ! <!-- more -->
 
-Ainsi, pour ajouter ce PPA, nous exécutons simplement :
+Pour cela, commençons à installer deux petits programmes qui contiennent une commande d'ajout de dépôt :
+	# aptitude install python-software-properties software-properties-common
+
+Ainsi, pour ajouter le PPA pour Sublime Text, nous exécutons simplement :
 
     # apt-add-repository ppa:webupd8team/sublime-text-2
 
